@@ -1,0 +1,21 @@
+<configuration>
+  <appSettings>
+    <element name="InstallType" value="Server" />
+    <element name="DatabasePort" value="7215" />
+    <element name="AlertServerPort" value="7221" />
+    <element name="AlertServerSocketPort" value="7222" />
+    <element name="ImporterPort" value="7223" />
+    <element name="IsMetric" value="false" />
+    <element name="RefreshDataInterval" value="180" />
+    <element name="AutomaticClientSoftwareUpdate" value="True" />
+    <element name="DatabaseServerName" value="STANLEYDESKTOP" />
+    <element name="ConnectionString" value="u+Ds05eWf6VpkvtWlnsYecdr44Skt2GXzM1qg+m+0ObiELkjyHwXXr5pkyqsLJjz8QXQnkeE4NPK0c00vdDuSj15S/HyINCv3zAJsz935aej6YJIEAkBXvWMPPGVukO/pp+SwgarkFGWsQ8PT5e4HDPpFBEng5SloSTjNnZzB9mlBKquWlYscI7RgrQMmHTXCl7l0mBcFet5CbPZ4GgD8kbdh51ZGVI2e73PaY3vc/2eTAJlvO60Yek1ypkavNpWK+BJ20eimw2jzHyfZcQzbfzpHJn2CnCcxgsOxC7vuhJ/alW2tmMnSbVx7k1rdzsM" />
+    <element name="LCT_LastSendReceivedDate" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;dateTime&gt;2007-08-13T20:56:56.390625-04:00&lt;/dateTime&gt;" />
+    <element name="FaceServerName" value="STANLEYDESKTOP" />
+    <element name="FaceServerPort" value="7217" />
+    <element name="IdentificationServerName" value="" />
+    <element name="IdentificationServerPort" value="" />
+    <element name="PropertyName" value="" />
+    <element name="PropertyGuid" value="" />
+  </appSettings>
+</configuration>

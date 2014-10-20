@@ -1,0 +1,134 @@
+<?xml version="1.0"?><DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts" DTS:ExecutableType="SSIS.Package.2">
+<DTS:Property DTS:Name="PackageFormatVersion">3</DTS:Property>
+<DTS:Property DTS:Name="VersionComments"></DTS:Property>
+<DTS:Property DTS:Name="CreatorName">STANLEY\Stanley</DTS:Property>
+<DTS:Property DTS:Name="CreatorComputerName">STANLEY</DTS:Property>
+<DTS:Property DTS:Name="CreationDate" DTS:DataType="7">5/18/2008 4:25:59 PM</DTS:Property>
+<DTS:Property DTS:Name="PackageType">5</DTS:Property>
+<DTS:Property DTS:Name="ProtectionLevel">1</DTS:Property>
+<DTS:Property DTS:Name="MaxConcurrentExecutables">-1</DTS:Property>
+<DTS:Property DTS:Name="PackagePriorityClass">0</DTS:Property>
+<DTS:Property DTS:Name="VersionMajor">1</DTS:Property>
+<DTS:Property DTS:Name="VersionMinor">0</DTS:Property>
+<DTS:Property DTS:Name="VersionBuild">19</DTS:Property>
+<DTS:Property DTS:Name="VersionGUID">{6B259934-BBA5-4FCA-B408-34CD8B13F6C4}</DTS:Property>
+<DTS:Property DTS:Name="EnableConfig">0</DTS:Property>
+<DTS:Property DTS:Name="CheckpointFileName"></DTS:Property>
+<DTS:Property DTS:Name="SaveCheckpoints">0</DTS:Property>
+<DTS:Property DTS:Name="CheckpointUsage">0</DTS:Property>
+<DTS:Property DTS:Name="SuppressConfigurationWarnings">0</DTS:Property>
+<DTS:ConnectionManager>
+<DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
+<DTS:Property DTS:Name="ObjectName">iXData</DTS:Property>
+<DTS:Property DTS:Name="DTSID">{53C7ED32-A0CD-43D8-86EF-3729ECB5434F}</DTS:Property>
+<DTS:Property DTS:Name="Description"></DTS:Property>
+<DTS:Property DTS:Name="CreationName">OLEDB</DTS:Property><DTS:ObjectData><DTS:ConnectionManager>
+<DTS:Property DTS:Name="Retain">0</DTS:Property>
+<DTS:Property DTS:Name="ConnectionString">Data Source=hp;Initial Catalog=iXData;Provider=SQLNCLI10.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-TempObjectEnd-{53C7ED32-A0CD-43D8-86EF-3729ECB5434F}iXData;</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
+<DTS:Property DTS:Name="LastModifiedProductVersion">10.50.4000.0</DTS:Property>
+<DTS:Property DTS:Name="ForceExecValue">0</DTS:Property>
+<DTS:Property DTS:Name="ExecValue" DTS:DataType="3">0</DTS:Property>
+<DTS:Property DTS:Name="ForceExecutionResult">-1</DTS:Property>
+<DTS:Property DTS:Name="Disabled">0</DTS:Property>
+<DTS:Property DTS:Name="FailPackageOnFailure">0</DTS:Property>
+<DTS:Property DTS:Name="FailParentOnFailure">0</DTS:Property>
+<DTS:Property DTS:Name="MaxErrorCount">1</DTS:Property>
+<DTS:Property DTS:Name="ISOLevel">1048576</DTS:Property>
+<DTS:Property DTS:Name="LocaleID">1033</DTS:Property>
+<DTS:Property DTS:Name="TransactionOption">1</DTS:Property>
+<DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
+<DTS:LoggingOptions>
+<DTS:Property DTS:Name="LoggingMode">0</DTS:Property>
+<DTS:Property DTS:Name="FilterKind">1</DTS:Property>
+<DTS:Property DTS:Name="EventFilter" DTS:DataType="8"></DTS:Property></DTS:LoggingOptions>
+<DTS:Executable DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" DTS:ThreadHint="0">
+<DTS:Property DTS:Name="ExecutionLocation">0</DTS:Property>
+<DTS:Property DTS:Name="ExecutionAddress"></DTS:Property>
+<DTS:Property DTS:Name="TaskContact">Execute SQL Task; Microsoft Corporation; Microsoft SQL Server v9; © 2004 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1</DTS:Property>
+<DTS:Property DTS:Name="ForceExecValue">0</DTS:Property>
+<DTS:Property DTS:Name="ExecValue" DTS:DataType="3">0</DTS:Property>
+<DTS:Property DTS:Name="ForceExecutionResult">-1</DTS:Property>
+<DTS:Property DTS:Name="Disabled">0</DTS:Property>
+<DTS:Property DTS:Name="FailPackageOnFailure">0</DTS:Property>
+<DTS:Property DTS:Name="FailParentOnFailure">0</DTS:Property>
+<DTS:Property DTS:Name="MaxErrorCount">1</DTS:Property>
+<DTS:Property DTS:Name="ISOLevel">1048576</DTS:Property>
+<DTS:Property DTS:Name="LocaleID">-1</DTS:Property>
+<DTS:Property DTS:Name="TransactionOption">1</DTS:Property>
+<DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
+<DTS:LoggingOptions>
+<DTS:Property DTS:Name="LoggingMode">0</DTS:Property>
+<DTS:Property DTS:Name="FilterKind">1</DTS:Property>
+<DTS:Property DTS:Name="EventFilter" DTS:DataType="8"></DTS:Property></DTS:LoggingOptions>
+<DTS:Property DTS:Name="ObjectName">Drop Temp Objects</DTS:Property>
+<DTS:Property DTS:Name="DTSID">{C6A6AB21-E0CE-453C-BC87-ED1818C02065}</DTS:Property>
+<DTS:Property DTS:Name="Description">Execute SQL Task</DTS:Property>
+<DTS:Property DTS:Name="CreationName">Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</DTS:Property>
+<DTS:Property DTS:Name="DisableEventHandlers">0</DTS:Property><DTS:ObjectData><SQLTask:SqlTaskData SQLTask:Connection="{53C7ED32-A0CD-43D8-86EF-3729ECB5434F}" SQLTask:TimeOut="0" SQLTask:IsStoredProc="False" SQLTask:BypassPrepare="True" SQLTask:SqlStmtSourceType="DirectInput" SQLTask:SqlStatementSource="if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_PropertyMappings]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_PropertyMappings]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporterView_PropertyMappings]') and OBJECTPROPERTY(id, N'IsView') = 1)&#xA;drop view [dbo].[__iTrakImporterView_PropertyMappings]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_DetailedReport]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_DetailedReport]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_ParticipantAssignment]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_ParticipantAssignment]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_ParticipantAssignment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_ParticipantAssignment]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_SubjectProfile]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_SubjectProfile]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_Vehicle]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_Vehicle]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_Vehicles]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_Vehicles]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_GameAudit]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_GameAudit]&#xA;GO&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_GameAudit_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_GameAudit_UnMatchedTableData]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_GameAudit]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_GameAudit]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_MiniAudit]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_MiniAudit]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_MiniAudit]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_MiniAudit]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_MiniAuditViolation]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_MiniAuditViolation]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_MiniAuditViolation]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_MiniAuditViolation]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_RecordAttachment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_RecordAttachment]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_RecordAttachment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_RecordAttachment]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_DetailedReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_DetailedReport]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_Incident_Temp]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_Incident_Temp]&#xA;GO&#xA;&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_Blotter]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_Blotter]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_DetailedReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_DetailedReport]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_iTrakImporter_DetailedReport_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_iTrakImporter_DetailedReport_UnMatchedTableData]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_SubjectProfile]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_SubjectProfile]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_SubjectProfile]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_SubjectProfile]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_GameAudit_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_GameAudit_UnMatchedTableData]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spi_RecordAttachment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spi_RecordAttachment]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_Vehicles]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_Vehicles]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_GameAudit_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_GameAudit_UnMatchedTableData]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_MiniAudit_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_MiniAudit_UnMatchedTableData]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_DetailedReport_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_DetailedReport_UnMatchedTableData]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_GameAudit]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_GameAudit]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_MiniAudit]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_MiniAudit]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_MiniAudit_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_MiniAudit_UnMatchedTableData]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_MiniAuditViolation]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_MiniAuditViolation]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_IncidentAttachment]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_IncidentAttachment]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_SubjectBan]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_SubjectBan]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_IncidentAttachment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_IncidentAttachment]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_IncidentAttachment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_spiu_IncidentAttachment]&#xA;GO&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_SubjectBan]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_SubjectBan]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_SubjectBant]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_SubjectBan]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_BanWatchStatus]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_BanWatchStatus]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_LostFoundLostReport]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_LostFoundLostReport]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_LostFoundFoundReport]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_LostFoundFoundReport]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_LostFoundFoundReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_LostFoundFoundReport]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_LostFoundLostReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_LostFoundLostReport]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_LostFoundFoundReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_LostFoundFoundReport]&#xA;GO&#xA;&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_LostFoundLostReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_LostFoundLostReport]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_LostFoundReturnVerification]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_LostFoundReturnVerification]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_LostFoundDisposalReport]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_LostFoundDisposalReport]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_spiu_SubjectBan]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;	drop procedure [dbo].[__iTrakImporter_spiu_SubjectBan]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_ParticipantAssignment]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_ParticipantAssignment]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_SubjectBan]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_SubjectBan]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_Vehicle_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_Vehicle_UnMatchedTableData]&#xA;GO&#xA; if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_sps_Vehicle_UnMatchedTableData]') and OBJECTPROPERTY(id, N'IsProcedure') = 1)&#xA;drop procedure [dbo].[__iTrakImporter_sps_Vehicle_UnMatchedTableData]&#xA;GO&#xA;&#xA;&#xA;if exists (select * from dbo.sysobjects where id = object_id(N'[dbo].[__iTrakImporter_Persons_Temp]') and OBJECTPROPERTY(id, N'IsUserTable') = 1)&#xA;drop table [dbo].[__iTrakImporter_Persons_Temp]&#xA;GO" SQLTask:CodePage="1252" SQLTask:ResultType="ResultSetType_None" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask"/></DTS:ObjectData></DTS:Executable>
+<DTS:Property DTS:Name="ObjectName">TempObjectEnd</DTS:Property>
+<DTS:Property DTS:Name="DTSID">{3B3F3160-F82A-4E73-9773-75A9A8AFC2B7}</DTS:Property>
+<DTS:Property DTS:Name="Description"></DTS:Property>
+<DTS:Property DTS:Name="CreationName">SSIS.Package.2</DTS:Property>
+<DTS:Property DTS:Name="DisableEventHandlers">0</DTS:Property>
+<DTS:PackageVariable>
+<DTS:Property DTS:Name="PackageVariableValue" DTS:DataType="8">&lt;Package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0"&gt;&lt;dwd:DtsControlFlowDiagram&gt;&lt;dwd:BoundingLeft&gt;-500&lt;/dwd:BoundingLeft&gt;&lt;dwd:Layout&gt;&lt;dds&gt;
+  &lt;diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="Microsoft.DataWarehouse.Layout.GraphLayout100" defaultlineroute="Microsoft.DataWarehouse.Layout.GraphLayout100" version="7" nextobject="5" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1500" scrolltop="0" gridx="150" gridy="150" marginx="1000" marginy="1000" zoom="100" x="24950" y="11165" backcolor="15334399" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="1" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}"&gt;
+    &lt;font&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="01010000900180380100065461686f6d61" /&gt;
+    &lt;/font&gt;
+    &lt;mouseicon&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="6c74000000000000" /&gt;
+    &lt;/mouseicon&gt;
+  &lt;/diagram&gt;
+  &lt;layoutmanager&gt;
+    &lt;ddsxmlobj /&gt;
+  &lt;/layoutmanager&gt;
+  &lt;ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.2" tooltip="Execute SQL Task" left="-500" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3598" height="1164" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobjectstreaminitwrapper binary="000800000e0e00008c040000" /&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{C6A6AB21-E0CE-453C-BC87-ED1818C02065}" vartype="8" /&gt;
+        &lt;property name="ShowConnectorSource" value="0" vartype="2" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;shape groupshapeid="0" groupnode="0" /&gt;
+  &lt;/ddscontrol&gt;
+&lt;/dds&gt;&lt;/dwd:Layout&gt;&lt;dwd:PersistedViewPortLeft&gt;-1500&lt;/dwd:PersistedViewPortLeft&gt;&lt;/dwd:DtsControlFlowDiagram&gt;&lt;/Package&gt;</DTS:Property>
+<DTS:Property DTS:Name="Namespace">dts-designer-1.0</DTS:Property>
+<DTS:Property DTS:Name="ObjectName">{3B3F3160-F82A-4E73-9773-75A9A8AFC2B7}</DTS:Property>
+<DTS:Property DTS:Name="DTSID">{FB41BD8F-8BFA-4159-9BE4-A6CCC7E69D2A}</DTS:Property>
+<DTS:Property DTS:Name="Description"></DTS:Property>
+<DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PackageVariable>
+<DTS:PackageVariable>
+<DTS:Property DTS:Name="PackageVariableValue" DTS:DataType="8">&lt;Package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0"&gt;&lt;dwd:DtsControlFlowDiagram&gt;&lt;dwd:BoundingLeft&gt;-500&lt;/dwd:BoundingLeft&gt;&lt;dwd:Layout&gt;&lt;dds&gt;
+  &lt;diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="Microsoft.DataWarehouse.Layout.GraphLayout100" defaultlineroute="Microsoft.DataWarehouse.Layout.GraphLayout100" version="7" nextobject="5" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1500" scrolltop="0" gridx="150" gridy="150" marginx="1000" marginy="1000" zoom="100" x="24950" y="11165" backcolor="15334399" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="1" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}"&gt;
+    &lt;font&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="01010000900180380100065461686f6d61" /&gt;
+    &lt;/font&gt;
+    &lt;mouseicon&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="6c74000000000000" /&gt;
+    &lt;/mouseicon&gt;
+  &lt;/diagram&gt;
+  &lt;layoutmanager&gt;
+    &lt;ddsxmlobj /&gt;
+  &lt;/layoutmanager&gt;
+  &lt;ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.2" tooltip="Execute SQL Task" left="-500" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3598" height="1164" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobjectstreaminitwrapper binary="000800000e0e00008c040000" /&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{C6A6AB21-E0CE-453C-BC87-ED1818C02065}" vartype="8" /&gt;
+        &lt;property name="ShowConnectorSource" value="0" vartype="2" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;shape groupshapeid="0" groupnode="0" /&gt;
+  &lt;/ddscontrol&gt;
+&lt;/dds&gt;&lt;/dwd:Layout&gt;&lt;dwd:PersistedViewPortLeft&gt;-1500&lt;/dwd:PersistedViewPortLeft&gt;&lt;/dwd:DtsControlFlowDiagram&gt;&lt;/Package&gt;</DTS:Property>
+<DTS:Property DTS:Name="Namespace">dts-designer-1.0</DTS:Property>
+<DTS:Property DTS:Name="ObjectName">package-diagram</DTS:Property>
+<DTS:Property DTS:Name="DTSID">{DA82C2A8-A7D7-48A3-A5D7-100751C376B0}</DTS:Property>
+<DTS:Property DTS:Name="Description"></DTS:Property>
+<DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PackageVariable></DTS:Executable>

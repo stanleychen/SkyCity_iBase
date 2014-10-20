@@ -1,0 +1,3 @@
+C:\Dev\iTrak\Conversion\Desert Diamond\ConversionMain\bin\Release\ConversionMain.exe.config
+C:\Dev\iTrak\Conversion\Desert Diamond\ConversionMain\obj\Release\ConversionMain.exe
+C:\Dev\iTrak\Conversion\Desert Diamond\ConversionMain\obj\Release\ConversionMain.pdb

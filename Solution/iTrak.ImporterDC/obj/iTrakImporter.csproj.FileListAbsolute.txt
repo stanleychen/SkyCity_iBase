@@ -1,0 +1,16 @@
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\iTrakImporter.dll.config
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\iTrakImporter.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\iTrakImporter.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\CCGeneral.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\iViewCommon.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\SpellChecking.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\bin\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\obj\Debug\iTrakImporter.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrakImporter\obj\Debug\iTrakImporter.pdb

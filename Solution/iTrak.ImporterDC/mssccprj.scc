@@ -1,0 +1,17 @@
+SCC = This is a Source Code Control file
+
+[iTrakImporter.csproj]
+SCC_Aux_Path = "C:\Dev\VSS"
+SCC_Project_Name = "$/SKYCity/iTrakConversion.root/iTrakConversion/iTrakImporter", WCAAAAAA
+
+[iTrak.DataImporterDC.csproj]
+SCC_Aux_Path = "C:\Dev\VSS"
+SCC_Project_Name = "$/SKYCity/iTrakConversion.root/iTrakConversion/iTrakImporter", WCAAAAAA
+
+[iTrak.ImporterDC.csproj]
+SCC_Aux_Path = "C:\Dev\VSS"
+SCC_Project_Name = "$/SKYCity/iTrakConversion/iTrak.ImporterDC", TJAAAAAA
+
+[iTrak.Importer.Data.csproj]
+SCC_Aux_Path = "F:\Dev\VSS"
+SCC_Project_Name = "$/SkyCity_iBase/iTrakConversion/iTrak.ImporterDC", YPUAAAAA

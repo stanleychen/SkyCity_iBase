@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="PropertyMappings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="Property">
+          <xs:complexType>
+            <xs:attribute name="SourcePropertyCode" type="xs:string" use="optional" />
+            <xs:attribute name="iTrakPropertyName" type="xs:string" use="optional" />
+            <xs:attribute name="Description" type="xs:string" use="optional" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

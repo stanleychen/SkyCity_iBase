@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[iTrak.ImporterBE.csproj]
+SCC_Aux_Path = "C:\Dev\VSS"
+SCC_Project_Name = "$/SKYCity/iTrakConversion/iTrak.ImporterBE", WLAAAAAA
+
+[iTrak.Importer.Entities.csproj]
+SCC_Aux_Path = "F:\Dev\VSS"
+SCC_Project_Name = "$/SkyCity_iBase/iTrakConversion/iTrak.ImporterBE", ZOUAAAAA

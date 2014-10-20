@@ -1,0 +1,663 @@
+<ErrorLogs>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>12/10/2014 2:31:05 PM</DateTime>
+<Message>IncidentAttachment.ImportOneMedia</Message>
+<Exception><Message>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Message>
+<Source>.Net SqlClient Data Provider</Source>
+<StackTrace>   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSni(DbAsyncResult asyncResult, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.ReadBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.ReadByte()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 249
+   at iTrak.Importer.Data.Importers.IncidentAttachment.ImportOneMedia(Object o) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 377</StackTrace>
+<TargetSite>OnError</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>12/10/2014 10:23:23 AM</DateTime>
+<Message>Failed to build Image SourceID: PER10745\SURV_Photo</Message>
+<Exception><Message>Object reference not set to an instance of an object.</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.IncidentAttachment.BuildiTrakMedia(IncidentAttachmentBE&amp; mediaBE) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 185</StackTrace>
+<TargetSite>BuildiTrakMedia</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>12/10/2014 10:23:23 AM</DateTime>
+<Message>Failed to build Image SourceID: PER7994\SURV_Photo</Message>
+<Exception><Message>Object reference not set to an instance of an object.</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.IncidentAttachment.BuildiTrakMedia(IncidentAttachmentBE&amp; mediaBE) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 185</StackTrace>
+<TargetSite>BuildiTrakMedia</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>12/10/2014 10:22:31 AM</DateTime>
+<Message>Object reference not set to an instance of an object.</Message>
+<Exception><Message>Object reference not set to an instance of an object.</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 729</StackTrace>
+<TargetSite>btnImportData_Click</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>11/10/2014 2:37:28 AM</DateTime>
+<Message>Failed to build Image SourceID: PER10745\SURV_Photo</Message>
+<Exception><Message>Object reference not set to an instance of an object.</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.IncidentAttachment.BuildiTrakMedia(IncidentAttachmentBE&amp; mediaBE) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 185</StackTrace>
+<TargetSite>BuildiTrakMedia</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>11/10/2014 2:37:28 AM</DateTime>
+<Message>Failed to build Image SourceID: PER7994\SURV_Photo</Message>
+<Exception><Message>Object reference not set to an instance of an object.</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.IncidentAttachment.BuildiTrakMedia(IncidentAttachmentBE&amp; mediaBE) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 185</StackTrace>
+<TargetSite>BuildiTrakMedia</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>08/09/2014 2:23:51 AM</DateTime>
+<Message>IncidentAttachment.ImportOneMedia</Message>
+<Exception><Message>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Message>
+<Source>.Net SqlClient Data Provider</Source>
+<StackTrace>   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSni(DbAsyncResult asyncResult, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.ReadBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.ReadByte()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 249
+   at iTrak.Importer.Data.Importers.IncidentAttachment.ImportOneMedia(Object o) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 377</StackTrace>
+<TargetSite>OnError</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>08/09/2014 12:23:26 AM</DateTime>
+<Message>Failed to run Conversion_iBase.dtsx</Message>
+<Exception><Message>Failed to run Conversion_iBase.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 622</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>08/09/2014 12:23:25 AM</DateTime>
+<Message>System.InvalidCastException: Conversion from string &quot;Staff;Request;Suspected Theft&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;SSM Verified;Photo Produced?&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+System.InvalidCastException: Conversion from string &quot;Media Ready For Collection?&quot; to type &apos;Integer&apos; is not valid. ---&gt; System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80004002 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 10:32:14 PM</DateTime>
+<Message>IncidentAttachment.ImportOneMedia</Message>
+<Exception><Message>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Message>
+<Source>.Net SqlClient Data Provider</Source>
+<StackTrace>   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSni(DbAsyncResult asyncResult, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.ReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.ReadBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.ReadByte()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 249
+   at iTrak.Importer.Data.Importers.IncidentAttachment.ImportOneMedia(Object o) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 377</StackTrace>
+<TargetSite>OnError</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 12:37:57 PM</DateTime>
+<Message>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Message>
+<Exception><Message>Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.</Message>
+<Source>.Net SqlClient Data Provider</Source>
+<StackTrace>   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 1202
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 1118
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(String connectionString, CommandType commandType, String commandText) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 1093
+   at iTrak.Importer.Data.Importers.GameAudit.GetSourceRowCount() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\GameAudit.cs:line 33
+   at iTrak.Importer.Data.Importers.GameAudit.get_Count() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\GameAudit.cs:line 24
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 689</StackTrace>
+<TargetSite>OnError</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 11:31:02 AM</DateTime>
+<Message>IncidentAttachment.ImportOneMedia</Message>
+<Exception><Message>Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.</Message>
+<Source>System.Data</Source>
+<StackTrace>   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 249
+   at iTrak.Importer.Data.Importers.IncidentAttachment.ImportOneMedia(Object o) in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\IncidentAttachment.cs:line 376</StackTrace>
+<TargetSite>GetConnection</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 3:13:08 AM</DateTime>
+<Message>Failed to run Conversion_iBase.dtsx</Message>
+<Exception><Message>Failed to run Conversion_iBase.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 622</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 3:13:07 AM</DateTime>
+<Message>
+
+Failed to retrieve long data for column &quot;Media&quot;.
+
+There was an error with output column &quot;Media&quot; (1985) on output &quot;OLE DB Source Output&quot; (11). The column status returned was: &quot;DBSTATUS_UNAVAILABLE&quot;.
+
+SSIS Error Code DTS_E_INDUCEDTRANSFORMFAILUREONERROR.  The &quot;output column &quot;Media&quot; (1985)&quot; failed because error code 0xC0209071 occurred, and the error row disposition on &quot;output column &quot;Media&quot; (1985)&quot; specifies failure on error. An error occurred on the specified object of the specified component.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;Media Source&quot; (1) returned error code 0xC0209029.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 1:32:40 AM</DateTime>
+<Message>Value of &apos;36652&apos; is not valid for &apos;Value&apos;. &apos;Value&apos; should be between &apos;minimum&apos; and &apos;maximum&apos;.
+Parameter name: Value</Message>
+<Exception><Message>Value of &apos;36652&apos; is not valid for &apos;Value&apos;. &apos;Value&apos; should be between &apos;minimum&apos; and &apos;maximum&apos;.
+Parameter name: Value</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.SavingsLossesForm.ImportSavingLosses() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\SavingsLossesForm.cs:line 144
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 632</StackTrace>
+<TargetSite>ImportSavingLosses</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 1:00:22 AM</DateTime>
+<Message>Value of &apos;36652&apos; is not valid for &apos;Value&apos;. &apos;Value&apos; should be between &apos;minimum&apos; and &apos;maximum&apos;.
+Parameter name: Value</Message>
+<Exception><Message>Value of &apos;36652&apos; is not valid for &apos;Value&apos;. &apos;Value&apos; should be between &apos;minimum&apos; and &apos;maximum&apos;.
+Parameter name: Value</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.SavingsLossesForm.ImportSavingLosses() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\SavingsLossesForm.cs:line 142
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 632</StackTrace>
+<TargetSite>ImportSavingLosses</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>07/09/2014 12:54:15 AM</DateTime>
+<Message>Invalid object name &apos;dbo.__iTrakImporter_sps_SavingsLossesForm&apos;.</Message>
+<Exception><Message>Invalid object name &apos;dbo.__iTrakImporter_sps_SavingsLossesForm&apos;.</Message>
+<Source>.Net SqlClient Data Provider</Source>
+<StackTrace>   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 1202
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 1118
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteScalar(String connectionString, CommandType commandType, String commandText) in C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\SQLHelper.cs:line 1093
+   at iTrak.Importer.Data.Importers.SavingsLossesForm.GetSourceRowCount() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\SavingsLossesForm.cs:line 33
+   at iTrak.Importer.Data.Importers.SavingsLossesForm.get_Count() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\SavingsLossesForm.cs:line 24
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 629</StackTrace>
+<TargetSite>OnError</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>06/09/2014 12:07:20 AM</DateTime>
+<Message>@OwnerDepartmentGuid is not a parameter for procedure __iTrakImporter_spiu_GameAudit.</Message>
+<Exception><Message>@OwnerDepartmentGuid is not a parameter for procedure __iTrakImporter_spiu_GameAudit.</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.GameAudit.ImportGameAudits() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\GameAudit.cs:line 213
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 692</StackTrace>
+<TargetSite>ImportGameAudits</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>05/09/2014 2:24:55 AM</DateTime>
+<Message>Cannot insert the value NULL into column &apos;OwnerDepartmentGUID&apos;, table &apos;iXData.dbo.GameAudit&apos;; column does not allow nulls. INSERT fails.
+The statement has been terminated.</Message>
+<Exception><Message>Cannot insert the value NULL into column &apos;OwnerDepartmentGUID&apos;, table &apos;iXData.dbo.GameAudit&apos;; column does not allow nulls. INSERT fails.
+The statement has been terminated.</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.GameAudit.ImportGameAudits() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\GameAudit.cs:line 208
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 701</StackTrace>
+<TargetSite>ImportGameAudits</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>05/09/2014 1:20:43 AM</DateTime>
+<Message>DepartmentGuid</Message>
+<Exception><Message>DepartmentGuid</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.Blotter.ImportBlotters() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\Blotter.cs:line 192
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 643</StackTrace>
+<TargetSite>ImportBlotters</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>05/09/2014 1:11:06 AM</DateTime>
+<Message>DetailedReportGUID</Message>
+<Exception><Message>DetailedReportGUID</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.BriefingLog.ImportBriefingLogs() in C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterDC\Importers\BriefingLog.cs:line 261
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 633</StackTrace>
+<TargetSite>ImportBriefingLogs</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>04/09/2014 11:59:36 PM</DateTime>
+<Message>Failed to run Conversion_iBase.dtsx</Message>
+<Exception><Message>Failed to run Conversion_iBase.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 623</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>04/09/2014 11:59:36 PM</DateTime>
+<Message>Object reference not set to an instance of an object.</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>04/09/2014 11:44:31 PM</DateTime>
+<Message>Failed to run Conversion_iBase.dtsx</Message>
+<Exception><Message>Failed to run Conversion_iBase.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\SkyCity_iBase\Solution\Application\Form1.cs:line 623</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>04/09/2014 11:44:30 PM</DateTime>
+<Message>Object reference not set to an instance of an object.</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>10/07/2014 1:00:53 AM</DateTime>
+<Message>Duplicated Row: IncidentGuid=0129b4b9-51ef-48b0-9562-71b3cac0593a; ParticipantGuid=118ce699-436e-46d2-b771-35e0e1d302b8</Message>
+<Exception><Message>Duplicated Row: IncidentGuid=0129b4b9-51ef-48b0-9562-71b3cac0593a; ParticipantGuid=118ce699-436e-46d2-b771-35e0e1d302b8</Message>
+<Source>iTrak.Importer.Data</Source>
+<StackTrace>   at iTrak.Importer.Data.Importers.ParticipantAssignment.ImportParticpantAssigments() in C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterDC\Importers\ParticipantAssignment.cs:line 191
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 667</StackTrace>
+<TargetSite>ImportParticpantAssigments</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:45:42 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:45:42 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:39:12 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:39:12 AM</DateTime>
+<Message>Microsoft.SqlServer.Dts.Pipeline.ColumnIsNullException: The column has a null value.
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.HandleUserException(Exception e)
+   at Microsoft.SqlServer.Dts.Pipeline.ScriptComponentHost.ProcessInput(Int32 inputID, PipelineBuffer buffer)
+   at Microsoft.SqlServer.Dts.Pipeline.ManagedComponentHost.HostProcessInput(IDTSManagedComponentWrapper100 wrapper, Int32 inputID, IDTSBuffer100 pDTSBuffer, IntPtr bufferWirePacket)
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Script Component 1&quot; (200) failed with error code 0x80131600 while processing input &quot;Input 0&quot; (209). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:36:41 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:36:41 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:32:48 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:32:48 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:31:47 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:31:46 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:24:44 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:24:44 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:19:40 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:19:40 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:15:41 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:15:41 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:04:07 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 1:04:07 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 12:56:56 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 12:56:56 AM</DateTime>
+<Message>SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component &quot;Lookup Incident Source&quot; (842) failed with error code 0x80070057 while processing input &quot;Lookup Input&quot; (843). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+
+The attempt to add a row to the Data Flow task buffer failed with error code 0xC0047020.
+
+SSIS Error Code DTS_E_PRIMEOUTPUTFAILED.  The PrimeOutput method on component &quot;OLE DB Source&quot; (1) returned error code 0xC02020C4.  The component returned a failure code when the pipeline engine called PrimeOutput(). The meaning of the failure code is defined by the component, but the error is fatal and the pipeline stopped executing.  There may be error messages posted before this with more information about the failure.
+
+</Message>
+</InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 12:52:31 AM</DateTime>
+<Message>Failed to run Conversion_Index.dtsx</Message>
+<Exception><Message>Failed to run Conversion_Index.dtsx</Message>
+<Source>iTrak.ImporterMain</Source>
+<StackTrace>   at iTrak.ImporterMain.Form1.RunPackage(String sourceConnectionName, String packageName, DataSourceType sourceType) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 439
+   at iTrak.ImporterMain.Form1.btnImportData_Click(Object sender, EventArgs e) in C:\Dev\Conversion\AmericanCasino\Solution\Application\Form1.cs:line 630</StackTrace>
+<TargetSite>RunPackage</TargetSite>
+</Exception></InfoLog>
+<InfoLog><TraceLevel>Error</TraceLevel>
+<DateTime>03/07/2014 12:52:31 AM</DateTime>
+<Message>The connection &quot;Index&quot; is not found. This error is thrown by Connections collection when the specific connection element is not found.
+</Message>
+</InfoLog>
+</ErrorLogs>

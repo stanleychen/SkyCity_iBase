@@ -1,0 +1,10 @@
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\bin\Debug\TestVB.exe
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\bin\Debug\TestVB.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\bin\Debug\TestVB.xml
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\TestVB.Resources.resources
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\TestVB.vbproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\TestVB.exe
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\TestVB.xml
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\TestVB.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\TestVB\TestVB\obj\Debug\TestVB.Form1.resources

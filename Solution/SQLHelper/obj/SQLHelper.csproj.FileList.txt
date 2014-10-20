@@ -1,0 +1,10 @@
+bin\Release\SQLHelper.dll
+bin\Release\SQLHelper.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SQLHelper.dll
+obj\Release\SQLHelper.pdb
+bin\Debug\SQLHelper.dll
+bin\Debug\SQLHelper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SQLHelper.dll
+obj\Debug\SQLHelper.pdb

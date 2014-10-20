@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "iTrak.Importer.SSIS", "iTrak.Importer.SSIS.dtproj", "{CF238AE8-CA24-453A-8F23-165C6D94CDC1}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = iTrak.Importer.SSIS.dtproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+		X86|Default = X86|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF238AE8-CA24-453A-8F23-165C6D94CDC1}.Development|Default.ActiveCfg = Development
+		{CF238AE8-CA24-453A-8F23-165C6D94CDC1}.Development|Default.Build.0 = Development
+		{CF238AE8-CA24-453A-8F23-165C6D94CDC1}.X86|Default.ActiveCfg = X86
+		{CF238AE8-CA24-453A-8F23-165C6D94CDC1}.X86|Default.Build.0 = X86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

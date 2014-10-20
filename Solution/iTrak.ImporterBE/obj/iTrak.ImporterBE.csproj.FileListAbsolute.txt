@@ -1,0 +1,5 @@
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\bin\Debug\iTrak.ImporterBE.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\bin\Debug\iTrak.ImporterBE.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Debug\iTrak.ImporterBE.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Debug\iTrak.ImporterBE.pdb

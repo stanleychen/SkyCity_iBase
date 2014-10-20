@@ -1,0 +1,807 @@
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\CCGeneral.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\iViewCommon.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\Application\bin\Release\SpellChecking.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\CCGeneral.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iViewCommon.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\SpellChecking.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Getty\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\CCGeneral.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iViewCommon.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\SpellChecking.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\Application\bin\Release\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\PropertyMappings.xml
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.ImporterMain.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\CCGeneral.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.Importer.Common.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.Importer.Data.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrakCommon.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrakDataCompressor.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iViewCommon.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\Janus.Windows.Common.v3.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\Janus.Windows.UI.v3.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\NetSpell.SpellChecker.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\SpellChecking.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.Importer.Common.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.Importer.Data.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\PropertyMappings.xml
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\CCGeneral.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrakCommon.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iViewCommon.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\SpellChecking.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\SQLHelper.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\SQLHelper.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+F:\Dev\iTrak\Conversion\TWIN River\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\Boston\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\X86\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\X86\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\X86\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\X86\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\PropertyMappings.xml
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\CCGeneral.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrakCommon.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iViewCommon.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\SpellChecking.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\PropertyMappings.xml
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\CCGeneral.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrakCommon.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iViewCommon.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\SpellChecking.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\Boston\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\Boston\Solution\Application\obj\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\PropertyMappings.xml
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\CCGeneral.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrakCommon.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iViewCommon.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\SpellChecking.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\PropertyMappings.xml
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\CCGeneral.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrakCommon.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iViewCommon.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\SpellChecking.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\WLGore\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\PropertyMappings.xml
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\CCGeneral.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrakCommon.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iViewCommon.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\SpellChecking.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\PropertyMappings.xml
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\CCGeneral.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrakCommon.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iViewCommon.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\SpellChecking.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\LVCVA\Solution\Application\obj\x86\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\X86\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\X86\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\X86\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\X86\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x64\X86\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\X86\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\X86\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\X86\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x64\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\PropertyMappings.xml
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\CCGeneral.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrakCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iViewCommon.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\SpellChecking.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x86\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\redataconversion\Solution\Application\obj\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\PropertyMappings.xml
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\CCGeneral.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrakCommon.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iViewCommon.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\SpellChecking.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\SQLHelper.dll
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\SQLHelper.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\DiamondResort\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\PropertyMappings.xml
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\CCGeneral.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrakCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iViewCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\SpellChecking.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\X86\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\PropertyMappings.xml
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\CCGeneral.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrak.Importer.Common.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrak.Importer.Data.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrakCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iTrakDataCompressor.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\iViewCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\Microsoft.SQLServer.DTSRuntimeWrap.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\SpellChecking.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\X86\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\X86\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\X86\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\X86\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\X86\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\PropertyMappings.xml
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\CCGeneral.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrakCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iViewCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\SpellChecking.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\PropertyMappings.xml
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\CCGeneral.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrakCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iViewCommon.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\SpellChecking.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\AmericanCasino\Solution\Application\obj\x86\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\PropertyMappings.xml
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\CCGeneral.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrakCommon.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrakDataCompressor.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iViewCommon.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\SpellChecking.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.exe
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Debug\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\PropertyMappings.xml
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe.config
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.ImporterMain.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\CCGeneral.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.Importer.Common.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.Importer.Data.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrakCommon.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrakDataCompressor.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iViewCommon.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\Janus.Windows.Common.v3.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\Janus.Windows.UI.v3.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\NetSpell.SpellChecker.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\SpellChecking.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.Importer.Common.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.Importer.Data.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Form1.resources
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Release\iTrak.ImporterMain.Properties.Resources.resources
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Release\iTrak.ImporterMain.csproj.GenerateResource.Cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Release\iTrak.ImporterMain.exe
+C:\Dev\Conversion\SkyCity_iBase\Solution\Application\obj\x86\Release\iTrak.ImporterMain.pdb

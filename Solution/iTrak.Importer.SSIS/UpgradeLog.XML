@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="iTrak.Importer.SSIS">
+</Property><Property Name="Solution File" Value="C:\Dev\Conversion\AmericanCasino\Solution\iTrak.Importer.SSIS\iTrak.Importer.SSIS.sln">
+</Property><Property Name="Date" Value="June-22-14">
+</Property><Property Name="Time" Value="7:58 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="iTrak.Importer.SSIS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="iTrak.Importer.SSIS.sln" Description="Converted">
+</Event></UpgradeLog>

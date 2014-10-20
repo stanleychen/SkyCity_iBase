@@ -1,0 +1,132 @@
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\bin\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\bin\Release\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\obj\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\SQLHelper\obj\Release\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\bin\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\bin\Release\SQLHelper.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Release\SQLHelper.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Release\SQLHelper.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\x86\X86\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\X86\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\Boston\Solution\SQLHelper\obj\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\obj\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\obj\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\obj\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\WLGore\Solution\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\obj\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\obj\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\LVCVA\Solution\SQLHelper\obj\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\X86\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\X86\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x64\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x64\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x64\Debug\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x64\Debug\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\Debug\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\Debug\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x64\X86\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x64\X86\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\redataconversion\Solution\SQLHelper\obj\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\bin\Release\SQLHelper.dll
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\bin\Release\SQLHelper.pdb
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\obj\Release\SQLHelper.dll
+C:\Dev\Conversion\DiamondResort\Solution\SQLHelper\obj\Release\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\Debug\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\Debug\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\Debug\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\x86\X86\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\X86\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\AmericanCasino\Solution\SQLHelper\obj\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\bin\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\bin\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\obj\x86\Debug\SQLHelper.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\bin\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\bin\x86\Release\SQLHelper.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\obj\x86\Release\SQLHelper.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\SQLHelper\obj\x86\Release\SQLHelper.pdb

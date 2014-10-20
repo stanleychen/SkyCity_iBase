@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PropertyMappings>
+	<Property SourcePropertyCode="A" iTrakPropertyName="American Casino IRIMS"  iTrakDepartmentName="Security" Description="Security"/>
+	<Property SourcePropertyCode="I" iTrakPropertyName="American Casino"  iTrakDepartmentName="Security" Description="Security"/>
+	<Property SourcePropertyCode="R" iTrakPropertyName="American Casino Rmgmt"  iTrakDepartmentName="Security" Description="Security"/>
+</PropertyMappings>

@@ -1,0 +1,152 @@
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\SKYCITY\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Getty\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\Coushatta\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.dll
+C:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+F:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+F:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+F:\Dev\iTrak\Conversion\TWIN River\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\x86\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\Boston\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\WLGore\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\LVCVA\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x64\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x64\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x64\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x64\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x64\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x64\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\redataconversion\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\bin\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\DiamondResort\Solution\iTrak.ImporterBE\obj\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\x86\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\X86\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\X86\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\AmericanCasino\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\bin\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\obj\x86\Debug\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\bin\x86\Release\iTrak.Importer.Entities.pdb
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.dll
+C:\Dev\Conversion\SkyCity_iBase\Solution\iTrak.ImporterBE\obj\x86\Release\iTrak.Importer.Entities.pdb
